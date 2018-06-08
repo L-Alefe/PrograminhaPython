@@ -3,6 +3,6 @@ if numero < 1000:
 	centena = numero//100
 	dezena = (numero%100)//10
 	unidade = (numero%100)%10
-	print(dezena)
+	print("O número tem",centena,"cetenas,",dezena,"dezenas e",unidade,"unidades.")
 else:
 	print("Número inválido")
