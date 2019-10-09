@@ -1,3 +1,2 @@
-# PrograminhaPython
-<h4>Programa Python</h4>
-<p>Esse código lê um número digitado pelo usuário e imprime a quantidade exata de centenas, dezenas e unidades desse número.</p>
+<h4>Python Space</h4>
+<p>Repositório público para código na linguagem python.</p>
